@@ -86,12 +86,3 @@ Deepening my expertise in **NestJS** micro‑services, container orchestration w
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gokselsayilan&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokselsayilan" alt="GitHub Streak"/>
-</p>
-
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/gokselsayilan" alt="Göksel Sayılan – GitHub Contribution Graph"/>
-</p>
-
