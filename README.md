@@ -93,5 +93,3 @@ Deepening my expertise in **NestJS** micro‑services, container orchestration w
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gokselsayilan&theme=github" alt="Contribution Graph"/>
 </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gokselsayilan&" alt="gokselsayilan" /></p>
