@@ -91,4 +91,7 @@ Deepening my expertise in **NestJS** micro‑services, container orchestration w
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gokselsayilan&" alt="gokselsayilan" /></p>
+<p align="center">
+  <img src="https://ghchart.rshah.org/gokselsayilan" alt="Göksel Sayılan – GitHub Contribution Graph"/>
+</p>
+
