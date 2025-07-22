@@ -56,7 +56,6 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"                   alt="Linux"         width="40" height="40" style="margin:0 18px 10px 0;"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"                                                alt="Git"           width="40" height="40" style="margin:0 18px 10px 0;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" style="margin:0 18px 10px 0;"/>
   <img src="https://miro.medium.com/v2/resize:fit:1358/1*a7D80NPwAHeJK3T_6612Tw.png"                                   alt="Amazon S3"     width="40" height="40" style="margin:0 18px 10px 0;"/>
   <img src="https://www.ejable.com/wp-content/uploads/2022/04/Framer-Motion.webp"                                      alt="Framer Motion" width="40" height="40" style="margin:0 18px 10px 0;"/>
 </p>
@@ -94,3 +93,5 @@ Deepening my expertise in **NestJS** micro‑services, container orchestration w
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gokselsayilan&theme=github" alt="Contribution Graph"/>
 </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gokselsayilan&" alt="gokselsayilan" /></p>
